@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges">
+  <div id="badges">
   <a href="https://www.linkedin.com/in/revathi-p-22b060208/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
    </a>
@@ -30,4 +29,6 @@ Here are some ideas to get you started:
     <a href="https://codeforces.com/profile/REVATHI_80">
     <img src="https://img.shields.io/badge/CodeForces-success?logo=codeforces&logoColor=white&style=for-the-badge" alt="CodeForces Badge"/>
     </a>
+</div>
+
 </div>
