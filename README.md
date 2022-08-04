@@ -67,4 +67,9 @@ I am a Competitive Programmer and FrontEnd Developer <img src="https://media.gip
 ---
 ### 🔥 My Stats: 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Revathi-80&theme=dark&background=000000)](https://git.io/streak-stats) 
+                                                                                                                                           
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Revathi-80&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+ <a href="https://github.com/Revathi-80">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Revathi-80&show_icons=true&theme=gotham" alt="Revathi's Github stats">
+</a>                                                                                                                                              
