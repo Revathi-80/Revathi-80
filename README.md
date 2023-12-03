@@ -52,7 +52,7 @@ I am a Competitive Programmer and FrontEnd Developer <img src="https://media.gip
 ---
 
 ### 🛠️ Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,nodejs,git,github,express,c,cpp,mongodb&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,nodejs,git,github,express,c,vscode,npm,cpp,mongodb&perline=6)](https://skillicons.dev)
 
 ---
 ### 🔥 LeetCode Stats:
