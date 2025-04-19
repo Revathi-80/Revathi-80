@@ -47,12 +47,12 @@ I am a Competitive Programmer and FrontEnd Developer <img src="https://media.gip
 - 👩‍🎓 I'm a CSE undergrad at SRM Institute of Science and Technology.
 - 🌱 Compitive Programming enthusiast.
 - 🌱 Exploring Full Stack Development.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/revathi-p-22b060208/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/revathi-p-22b060208/) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Revathi)](https://x.com/RevathiP04)
 
 ---
 
 ### 🛠️ Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,nodejs,git,github,express,c,vscode,npm,cpp,mongodb&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,nodejs,git,github,express,c,vscode,npm,cpp,mongodb,angular,docker,bash,postgres,python&perline=6)](https://skillicons.dev)
 
 ---
 ### 🔥 LeetCode Stats:
